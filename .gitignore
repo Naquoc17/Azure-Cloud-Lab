@@ -110,3 +110,5 @@ nCrunchTemp_*/
 
 # Azure Pipelines
 .azure-pipelines/
+
+*.sln
