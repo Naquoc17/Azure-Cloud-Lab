@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cosmos-mongo-test": "file:",
     "dotenv": "^16.4.7",
     "mongodb": "^6.15.0"
   }
